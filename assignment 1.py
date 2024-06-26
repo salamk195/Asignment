@@ -21,10 +21,10 @@ print(daily_expenses)
 
 
 """Temperature_converter"""
-"""if c = 65,find f"""
-c = 65 
-f = c * 9/5 + 32
-print(f)
+"""if degree_celcius = 65,find degree_fahrenheit"""
+degree_celcius = 65 
+degree_fahrenheit = degree_celcius * 9/5 + 32
+print(degree_fahrenheit)
 
 
 
