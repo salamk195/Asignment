@@ -1,4 +1,4 @@
 Essay = input("Enter your essay")
-amount_of_words = print(Essay .split( ))
-word_count =len(amount_of_words)
+Essay .replace(" " ,'')
+word_count =len(Essay .replace(" " ,''))
 print(word_count)
