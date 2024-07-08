@@ -95,4 +95,4 @@ if Question10 == 24:
         totalscore += 1
 else:
     print("wrong")
-print(totalscore)
+print("your total score is" , totalscore)
